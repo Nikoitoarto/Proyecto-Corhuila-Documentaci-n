@@ -10,7 +10,6 @@
 ## CARACTERISTICAS
 * Interfaz de usuario intutitva: La aplicacón cuenta con un diseño limpio y moderno, facilitando la navegación y usabilidad.
 * Se utiliza la arquitectura MVC (Modelo, vista, Controlador).
-* Se maneja el patron de diseño Abstrac Factory.
 * Se utiliza SpringBoot para la parte del BackEnd.
-* Se utiliza Reat JS para la parte del FrontEnd.
+* Se utiliza React JS para la parte del FrontEnd.
 * Motor relacional PostgreSQL
