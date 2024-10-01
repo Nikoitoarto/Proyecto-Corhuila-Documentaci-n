@@ -10,7 +10,7 @@
 ### Link del MockUp del proyecto: https://www.figma.com/proto/X0CmyxC2SP4IVNkTHydl9x/Gesti%C3%B3n-formulario?node-id=0-1&t=b3KGVz9D0S5tyfhZ-1
 ## CARACTERISTICAS
 * Interfaz de usuario intutitva: La aplicacón cuenta con un diseño limpio y moderno, facilitando la navegación y usabilidad.
-* Se utiliza la arquitectura MVC (Modelo, vista, Controlador).
+* Se utiliza la arquitectura de capas con un patrón de diseño Factory Method.
 * Se utiliza SpringBoot para la parte del BackEnd.
 * Se utiliza React JS para la parte del FrontEnd.
 * Motor relacional PostgreSQL
