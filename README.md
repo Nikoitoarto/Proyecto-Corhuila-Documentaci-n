@@ -2,7 +2,7 @@
 ### Desarrollo de solución para la gestión, automatización y digitalización del formulario de Planificación Semestral Profesoral de los docentes en la Corporación Universitaria del Huila (Corhuila).
 ## REPOSITORIOS
 ### BakcEnd: https://github.com/Nikoitoarto/Backend-Proyect.git
-### FrontEnd: https://github.com/Nikoitoarto/Frontend_proyect.git
+### FrontEnd: https://github.com/Nikoitoarto/FrontEnd_Proyecto.git
 ## DOCUMENTACIÓN Y GESTION DEL PROYECTO
 ### Link de Drive: https://drive.google.com/drive/folders/1qfLSaMsVzk4W-oBu0abW2DftLoVG4Z9C?usp=drive_link
 ### Link de Trello: https://trello.com/invite/b/66c7b872913a528ef1050143/ATTI0c99968feeefd1d6f80cb6087160d030E79A26A9/aplicacion-web-de-gestion-de-formulario-de-planificacion-semestral-de-docentes
